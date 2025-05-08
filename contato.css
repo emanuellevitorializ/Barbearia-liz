@@ -1,0 +1,13 @@
+main{
+  width: 940px;
+  margin: 0 autor;
+  }
+form{
+  margin: 40px 0;
+form label{ 
+  display:block;
+  }
+form imput,form textarea{
+  width: 100%;
+  margin-bottom: 20px;
+  }  
