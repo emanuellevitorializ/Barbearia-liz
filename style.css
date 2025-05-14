@@ -45,3 +45,31 @@ background-color: #CCCCCC;
   padding: 30px;
 
 }
+.enviar{
+background-color:orange;
+  color:white;
+  font-size:15px;
+  font-weight:bold;
+  border-raudius:8px;
+  width:40%;
+  pading:15px 0;
+  transition:1s all 1s;
+}
+
+.enviar:houver {
+background-color:red;
+  transform:scale(1.2);
+
+  
+  }
+
+table{
+margin:15px 0 40px;
+} 
+thead{
+background-color: #555555;
+  color: #888888;
+  font-weight: bold;
+}
+
+

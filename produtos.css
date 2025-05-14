@@ -59,3 +59,12 @@ nav a {
   font-weight: bold;
   margin-top: 10px;
 }
+footer{
+  background: url("bg.jpg");
+  text-align: center;
+  
+}
+.copyright{
+  font-size: 13px;
+  color: #FFFFFF;
+}

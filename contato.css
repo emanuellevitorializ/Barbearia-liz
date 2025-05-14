@@ -11,3 +11,9 @@ form imput,form textarea{
   width: 100%;
   margin-bottom: 20px;
   }  
+    .caixa {
+      position: relative;
+      width: 940px;
+      margin: 0 auto;
+    }
+  
